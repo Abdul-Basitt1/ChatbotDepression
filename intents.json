@@ -1,0 +1,80 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1745257422,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1e02a870-1725-4e8c-abc4-ce7c7532e21ecf241b"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1745253012.057064,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "tVxaHExKAXoagxhDmiCtjplzSvXYfYmWGCqIANCdbbAyAaFiNXKbhwmQttLkVklLOOJKQIZEeCotWFHheYwgqdPaMyPshyjMJrbuszyVeltSxGkXpSozgjldByIqDdiU"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1714067023,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "df2c6172-3b01-41f6-b9d5-ec7c06951484:BQoAqat7LH6CAAAA:yhBMUWSpopubkSXzgTg/me8Bm+xvE8qqHWV/wKQ3v1eHnj406q+ThZ1XHl5CYHmcoS7CB6iQceteCc1d+P0x7/TIgZj/k+VgC8qI3uVL1/pT2Pa5Fxgi6wG6L/bqFcTvIEAeC6tjdoELk6EkS3sQMUnqqBgXxp9pzuHU2/1foGzAlY9+7XskXG6BMKpdoQh4qoRJEojFe9yf2V3Gd6Q6uGiL4Rfs41UdbpZqlvMa1Mhl/yIYwTnFczS/6ugn7EG0EyObMEo="
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1713723222,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_sid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "78d82ca6-5d3e-43e0-883e-f92b75f67e5e799657"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1714931028.200396,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "5f5392c7-cf0a-4eb4-bc3e-cacc235822ae"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1745253012.056584,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "tVxaHExKAXoagxhDmiCtjplzSvXYfYmWGCqIANCdbbAyAaFiNXKbhwmQttLkVklLOOJKQIZEeCotWFHheYwgqdPaMyPshyjMJrbuszyVeltSxGkXpSozgjldByIqDdiU"
+    }
+]

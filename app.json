@@ -4,6 +4,7 @@
     "slug": "ChatbotDepression",
     "version": "1.0.0",
     "orientation": "portrait",
+    "scheme": "ChatbotDepression - Copy",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {

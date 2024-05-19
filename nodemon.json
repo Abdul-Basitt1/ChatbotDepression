@@ -1,0 +1,13 @@
+  {
+    "watch": ["Server.py", "MessagesScreen.js"],
+    "ext": "py,js,jsx,json",
+    "ignore": ["node_modules"],
+    "execMap": {
+      "py": "flask run --host=0.0.0.0 --port=5000",
+      "js": "expo start"
+    },
+    "events": {
+      "restart": "echo Server restarted due to changes..."
+    }
+  }
+  
